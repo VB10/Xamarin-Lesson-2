@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A3660060-0A1D-4BEE-B327-61FF5903FDF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinDers2.Droid PreferredExecutionTarget="Android.vblesson" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDers2/Views/ActivityIndacatorPage.xaml">
+    <Files>
+      <File FileName="XamarinDers2/Views/ActivityIndacatorPage.xaml" Line="11" Column="110" />
+      <File FileName="XamarinDers2/Views/ActivityIndacatorPage.xaml.cs" Line="14" Column="4" />
+      <File FileName="XamarinDers2/App.xaml.cs" Line="11" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinDers2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3155ABB-D022-45EE-9CCD-76BFFE2AA820" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
