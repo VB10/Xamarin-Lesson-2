@@ -19,6 +19,9 @@
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\ActivityIndacatorPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\CustomRendererPages1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
@@ -33,6 +36,9 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Views\ActivityIndacatorPage.xaml.cs">
       <DependentUpon>ActivityIndacatorPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\CustomRendererPages1.xaml.cs">
+      <DependentUpon>CustomRendererPages1.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

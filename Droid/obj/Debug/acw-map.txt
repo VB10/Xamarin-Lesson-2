@@ -2,6 +2,10 @@ XamarinDers2.Droid.MainActivity, XamarinDers2.Droid;md597cc17f07fbf180cb7adbdb17
 XamarinDers2.Droid.MainActivity, XamarinDers2.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md597cc17f07fbf180cb7adbdb17489d0f2.MainActivity
 XamarinDers2.Droid.MainActivity;md597cc17f07fbf180cb7adbdb17489d0f2.MainActivity
 xamarinders2.droid.MainActivity;md597cc17f07fbf180cb7adbdb17489d0f2.MainActivity
+XamarinDers2.Droid.LabelCustomRenderer, XamarinDers2.Droid;md597cc17f07fbf180cb7adbdb17489d0f2.LabelCustomRenderer
+XamarinDers2.Droid.LabelCustomRenderer, XamarinDers2.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md597cc17f07fbf180cb7adbdb17489d0f2.LabelCustomRenderer
+XamarinDers2.Droid.LabelCustomRenderer;md597cc17f07fbf180cb7adbdb17489d0f2.LabelCustomRenderer
+xamarinders2.droid.LabelCustomRenderer;md597cc17f07fbf180cb7adbdb17489d0f2.LabelCustomRenderer
 Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor

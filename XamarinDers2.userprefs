@@ -1,17 +1,19 @@
-﻿<Properties StartupConfiguration="{A3660060-0A1D-4BEE-B327-61FF5903FDF0}|Default">
+﻿<Properties StartupConfiguration="{99AE6539-A79C-474C-B7A1-29653C86C3B9}|Default">
   <MonoDevelop.Ide.ItemProperties.XamarinDers2.Droid PreferredExecutionTarget="Android.vblesson" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDers2/Views/ActivityIndacatorPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/CustomRenderer/LabelsCustomRender.cs">
     <Files>
-      <File FileName="XamarinDers2/Views/ActivityIndacatorPage.xaml" Line="11" Column="110" />
-      <File FileName="XamarinDers2/Views/ActivityIndacatorPage.xaml.cs" Line="14" Column="4" />
-      <File FileName="XamarinDers2/App.xaml.cs" Line="11" Column="40" />
+      <File FileName="XamarinDers2/App.xaml.cs" Line="11" Column="39" />
+      <File FileName="XamarinDers2/Views/CustomRendererPages1.xaml" Line="1" Column="1" />
+      <File FileName="XamarinDers2/Views/CustomRendererPages1.xaml.cs" Line="14" Column="3" />
+      <File FileName="iOS/CustomRenderer/LabelsCustomRender.cs" Line="14" Column="29" />
+      <File FileName="Droid/CustomRenderer/LabelCustomRenderer.cs" Line="6" Column="27" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.XamarinDers2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3155ABB-D022-45EE-9CCD-76BFFE2AA820" />
+  <MonoDevelop.Ide.ItemProperties.XamarinDers2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E8AFE084-A00C-4494-B386-18D877B68597" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

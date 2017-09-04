@@ -19,3 +19,9 @@
 /Users/vb/Projects/XamarinDers2/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
 /Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS.Views.ActivityIndacatorPage.xaml
 /Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.ActivityIndacatorPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS.Views.CustomRendererPages1.xaml
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.CustomRendererPages1.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_PartialAppManifest.items
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/optimized/

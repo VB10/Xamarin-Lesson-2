@@ -38,3 +38,5 @@
 /Users/vb/Projects/XamarinDers2/Droid/obj/Debug/XamarinDers2.Droid..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.CarouselPagex.CPage2.xaml.g.cs
 /Users/vb/Projects/XamarinDers2/Droid/obj/Debug/XamarinDers2.Droid.Views.ActivityIndacatorPage.xaml
 /Users/vb/Projects/XamarinDers2/Droid/obj/Debug/XamarinDers2.Droid..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.ActivityIndacatorPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/Droid/obj/Debug/XamarinDers2.Droid.Views.CustomRendererPages1.xaml
+/Users/vb/Projects/XamarinDers2/Droid/obj/Debug/XamarinDers2.Droid..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.CustomRendererPages1.xaml.g.cs
