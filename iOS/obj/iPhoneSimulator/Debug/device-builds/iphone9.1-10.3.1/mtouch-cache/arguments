@@ -1,6 +1,6 @@
-# Version: 10.12.0.20 (d15-3: 80b8487d)
+# Version: 10.12.3.3 (d15-3: 8a391069)
 # [first argument, ignore] # --cache
-/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.0.20/lib/mtouch/mtouch.exe \
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.12.3.3/lib/mtouch/mtouch.exe \
 	/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/mtouch-cache \
 	--sim \
 	/Users/vb/Projects/XamarinDers2/iOS/bin/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/XamarinDers2.iOS.app \
@@ -37,6 +37,12 @@
 	/Users/vb/Projects/XamarinDers2/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
 	/Users/vb/Projects/XamarinDers2/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/vb/Projects/XamarinDers2/packages/Rg.Plugins.Popup.1.0.4/lib/Xamarin.IOS/Rg.Plugins.Popup.dll \
+	-r \
+	/Users/vb/Projects/XamarinDers2/packages/Rg.Plugins.Popup.1.0.4/lib/Xamarin.IOS/Rg.Plugins.Popup.IOS.dll \
+	-r \
+	/Users/vb/Projects/XamarinDers2/packages/Rg.Plugins.Popup.1.0.4/lib/Xamarin.IOS/Rg.Plugins.Popup.Platform.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r \
@@ -321,6 +327,12 @@
 	/Users/vb/Projects/XamarinDers2/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll \
 	-r \
 	/Users/vb/Projects/XamarinDers2/packages/Xamarin.Forms.2.3.4.224/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/vb/Projects/XamarinDers2/packages/Rg.Plugins.Popup.1.0.4/lib/Xamarin.IOS/Rg.Plugins.Popup.dll \
+	-r \
+	/Users/vb/Projects/XamarinDers2/packages/Rg.Plugins.Popup.1.0.4/lib/Xamarin.IOS/Rg.Plugins.Popup.IOS.dll \
+	-r \
+	/Users/vb/Projects/XamarinDers2/packages/Rg.Plugins.Popup.1.0.4/lib/Xamarin.IOS/Rg.Plugins.Popup.Platform.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
 	/Users/vb/Projects/XamarinDers2/iOS/bin/iPhoneSimulator/Debug/XamarinDers2.iOS.exe \

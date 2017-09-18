@@ -8,7 +8,7 @@ namespace XamarinDers2
 		{
 			InitializeComponent();
 
-			MainPage = new CustomRendererPages1();
+			MainPage = new HomeXPage();
 		}
 
 		protected override void OnStart()

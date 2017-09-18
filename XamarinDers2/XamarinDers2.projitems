@@ -22,6 +22,18 @@
     <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\CustomRendererPages1.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MessagingCenterPages\MessagePage1.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\MessagingCenterPages\MessagePage2.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Popup\MyPopupPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Views\Popup\HomeXPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
@@ -40,9 +52,25 @@
     <Compile Include="$(MSBuildThisFileDirectory)Views\CustomRendererPages1.xaml.cs">
       <DependentUpon>CustomRendererPages1.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MessagingCenterPages\MessagePage1.xaml.cs">
+      <DependentUpon>MessagePage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\MessagingCenterPages\MessagePage2.xaml.cs">
+      <DependentUpon>MessagePage2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Popup\MyPopupPage.xaml.cs">
+      <DependentUpon>MyPopupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Views\Popup\HomeXPage.xaml.cs">
+      <DependentUpon>HomeXPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Quest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Views\" />
     <Folder Include="$(MSBuildThisFileDirectory)Views\CarouselPagex\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Views\MessagingCenterPages\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Views\Popup\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Model\" />
   </ItemGroup>
 </Project>

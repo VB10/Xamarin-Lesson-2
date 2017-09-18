@@ -25,3 +25,14 @@
 /Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_PartialAppManifest.items
 /Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-10.3.1/optimized/
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS.Views.MessagingCenterPages.MessagePage1.xaml
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS.Views.MessagingCenterPages.MessagePage2.xaml
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.MessagingCenterPages.MessagePage1.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.MessagingCenterPages.MessagePage2.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS.Views.Popup.MyPopupPage.xaml
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS.Views.Popup.HomeXPage.xaml
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.Popup.MyPopupPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/iOS/obj/iPhoneSimulator/Debug/XamarinDers2.iOS..Users.vb.Projects.XamarinDers2.XamarinDers2.Views.Popup.HomeXPage.xaml.g.cs
+/Users/vb/Projects/XamarinDers2/iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.dll
+/Users/vb/Projects/XamarinDers2/iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.IOS.dll
+/Users/vb/Projects/XamarinDers2/iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.Platform.dll
