@@ -8,7 +8,7 @@ namespace XamarinDers2
 		{
 			InitializeComponent();
 
-			MainPage = new HomeXPage();
+			MainPage = new AnimationPage();
 		}
 
 		protected override void OnStart()

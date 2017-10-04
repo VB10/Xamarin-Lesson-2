@@ -1,11 +1,9 @@
-﻿<Properties StartupConfiguration="{99AE6539-A79C-474C-B7A1-29653C86C3B9}|Default">
-  <MonoDevelop.Ide.ItemProperties.XamarinDers2.Droid PreferredExecutionTarget="Android.vblesson" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDers2/Views/Popup/MyPopupPage.xaml.cs">
+﻿<Properties StartupConfiguration="{A3660060-0A1D-4BEE-B327-61FF5903FDF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinDers2.Droid PreferredExecutionTarget="Android.vbtes" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinDers2/Views/AnimationPage.xaml">
     <Files>
-      <File FileName="XamarinDers2/Views/Popup/HomeXPage.xaml.cs" Line="26" Column="68" />
-      <File FileName="XamarinDers2/Views/Popup/HomeXPage.xaml" Line="1" Column="1" />
-      <File FileName="XamarinDers2/Views/Popup/MyPopupPage.xaml.cs" Line="16" Column="6" />
-      <File FileName="XamarinDers2/Views/Popup/MyPopupPage.xaml" Line="1" Column="1" />
+      <File FileName="XamarinDers2/Views/AnimationPage.xaml" Line="11" Column="35" />
+      <File FileName="XamarinDers2/Views/AnimationPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
@@ -14,7 +12,7 @@
       <Breakpoint file="/Users/vb/Projects/XamarinDers2/XamarinDers2/Views/MessagingCenterPages/MessagePage2.xaml.cs" relfile="XamarinDers2/Views/MessagingCenterPages/MessagePage2.xaml.cs" line="16" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.XamarinDers2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3155ABB-D022-45EE-9CCD-76BFFE2AA820" />
+  <MonoDevelop.Ide.ItemProperties.XamarinDers2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6550CDF7-4D3C-4993-B876-0DFCAF0C5B87" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -20,6 +20,8 @@ namespace XamarinDers2
 				_lblans2.Text = data.answ2;
 			
 			});
+
+
 		}
 
 		void Handle_Clicked(object sender, System.EventArgs e)
